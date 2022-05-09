@@ -9,7 +9,7 @@ export default function Projects(props) {
         <div className="projectsHeader">
           <h1>My Projects</h1>
         </div>
-        <ul>{displayProjects}</ul>
+        <p>{displayProjects}</p>
       </div>
     </div>
   );

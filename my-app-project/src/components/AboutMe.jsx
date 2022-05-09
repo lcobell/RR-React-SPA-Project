@@ -4,11 +4,15 @@ export default function About() {
       <div className="aboutHeader">
         <h1>About Me</h1>
       </div>
-      <p>Here there will be more information about me!</p>
-      <img
-        src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/142282110_157741076117808_6193331715204126229_n.jpg?stp=dst-jpg_p206x206&_nc_cat=110&ccb=1-6&_nc_sid=da31f3&_nc_ohc=8LYlLT3Q4ogAX-duGI0&_nc_ht=scontent-ort2-1.xx&oh=00_AT97iPO8Rn49621shL0s5Ra4LK78nlgBip0sPlokkAysFA&oe=629FABE6"
-        alt="Logan and the dogs ready to go for a run!"
-      />
+      <p>
+        My name is Logan CoBell and I am a Software Development student enrolled
+        in Old Dominion University's 400 hour Full Stack Software Development
+        Bootcamp as well as a Discovery Partners Institute Apprentice through
+        the University of Illinois where I am learning more tech skills as well
+        as the soft skills needed for a rewarding career in tech.
+      </p>
+      <img src="https://tse3.mm.bing.net/th?id=OIP.0p-Qm1K_xEUd_d2yWDHTowHaCw&pid=Api&P=0&w=423&h=157" />
+      <img src="https://2hih5c1nlnt71of6g8yfvvnl-wpengine.netdna-ssl.com/wp-content/uploads/2022/02/dpi-side-black-green-1024x365.png" />
     </div>
   );
 }
